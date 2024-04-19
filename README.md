@@ -1,5 +1,5 @@
 # Levi_paper
-## Code and data used in paper.
+## Code used in paper.
 
 ### A.
 #### Code to filter VCF:
@@ -14,3 +14,8 @@ Neighbour joining trees from distance based analyses were created using “adege
 ### D. 
 Allele frequency spectra were created using “AFS.R”.
 
+## Data used in paper.
+
+### For original cohort of populations for sections A,B, and C:
+
+### For creating artificial hybrid in section D:
