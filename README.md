@@ -16,6 +16,9 @@ Allele frequency spectra were created using “AFS.R”.
 
 ## Data used in paper.
 
-### For original cohort of populations for sections A,B, and C:
+### For original cohort of populations in sections A,B, and C:
+- Chrom_1_noSnakemake.lyrata.bipassed.dp.m.bt.1pct.ld_pruned.vcf.gz
 
 ### For creating artificial hybrid in section D:
+- lyrata_272_with_some_hybrids.txt.gz <br>
+- arenosa_632.txt.gz
